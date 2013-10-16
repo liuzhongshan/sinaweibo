@@ -1,0 +1,4 @@
+SinaWeibo
+=========
+
+My SinaWeibo App
